@@ -1,6 +1,6 @@
 # Prometheus.ai
 
-**Keep Humanity in the Loop.**
+**A human-centric system to tame and harness the fire of AI**
 
 Prometheus.ai is an open-source project designed to empower human governance over Large Language Models (LLMs). It allows configurable control, behavioral monitoring, and ethical oversight of AI-generated content — tailored for different users, age groups, and psychological needs.
 
